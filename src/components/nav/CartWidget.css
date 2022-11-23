@@ -1,0 +1,31 @@
+.number{
+  background: red;
+  font-size: 1.3rem;
+
+  border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.6em;
+  margin-right: 15px;
+  text-align: center;
+  width: 1.6em; 
+
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+}
+
+.bag{
+  width: 3rem;
+  height: 3rem;
+  margin-right: 2rem;
+}
+
+.widget{
+  position: relative;
+}
+

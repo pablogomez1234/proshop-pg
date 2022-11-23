@@ -1,0 +1,9 @@
+.cartTexto{
+  text-decoration: double;
+  color: blue;
+}
+
+.miniFoto{
+  width: 12rem;
+  height: 12rem;
+}
